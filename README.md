@@ -5,7 +5,7 @@
 
 <div style="display:inline_block" >
   
- <img align="center" alt="Python" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" style="height:50px; width:auto" target="_blank">
+<img align="center" alt="Python" src="https://www.python.org/static/img/python-logo.png" style="height:50px; width:auto" target="_blank">
  <img align="center" alt="Telegram" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-0-2-1536x1536.png" style="height:50px; width:auto" target="_blank">
 
 ## Haircut bot de automatização para agendamento de serviços.
